@@ -8,7 +8,7 @@ Meu progresso é gerenciado por um [project](https://github.com/users/OsirisMari
 - [x] [Curso Ruby on Rails 6 MVC #2 - Criação do Projeto](https://github.com/OsirisMariano/blogstrap/issues/3) 
 - [x] [Curso Ruby on Rails 6 MVC #3 - O que é MVC e CRUD?](https://github.com/OsirisMariano/blogstrap/issues/4)
 - [x] [Curso Ruby on Rails 6 MVC #4 - Listando Articles](https://github.com/OsirisMariano/blogstrap/issues/5)
-- [] [Curso Ruby on Rails 6 MVC #5 - Mostrando um Article]()
+- [x] [Curso Ruby on Rails 6 MVC #5 - Mostrando um Article](https://github.com/OsirisMariano/blogstrap/issues/11)
 - [] [Curso Ruby on Rails 6 MVC #6 - Criando um Article]()
 - [] [Curso Ruby on Rails 6 MVC #7 - Atualizando um Article]()
 - [] [Curso Ruby on Rails 6 MVC #8 - Excluindo um Article]()
