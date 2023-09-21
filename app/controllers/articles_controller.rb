@@ -4,8 +4,7 @@ class ArticlesController < ApplicationController
     @articles = Article.all
   end
 
-  def show
-  end
+  def show; end
 
   def new
     @article = Article.new
@@ -21,8 +20,7 @@ class ArticlesController < ApplicationController
     end
   end
 
-  def edit
-  end
+  def edit; end
 
   def update
     if @article.update(article_params)
@@ -34,7 +32,7 @@ class ArticlesController < ApplicationController
 
   def destroy
     @article.destroy
-    redirect_to root_path
+    redirect_to root_path, status: :see_other
   end
 
   private
